@@ -23,11 +23,6 @@ In this competition you will be provided agriculture related documents and you a
 [神奇寶貝的 TF-IDF (NLP 講人話系列之一)](https://www.youtube.com/watch?v=rsImqTI51WI)
 
 ## Result
-|          | scikit-learn | Articut | Jieba |
-| -------- | -------- | -------- | -------- |
-| stage 1 | Text     | Text     | Text     |
-| stage 2 | Text     | Text     | Text     |
-| stage 1+2 | Text     | Text     | Text     |
-| Overall ||||
+
 
 ###### Ref
