@@ -2,7 +2,7 @@
 
 ## Team Members
 109078501 Riley Kao 高靖雅
-109078510 YuanRu Deng 鄧媛如
+109078510 YuanRu Deng 鄧媛如 
 109078511 Linda Yeh 葉芝均
 109078513 YanYu Fu 傅嬿羽
 109062423 Apoorv Saxena
@@ -21,7 +21,7 @@ The project expect us that the data will be labelled and a text recognition anal
 - Pre-training model:  XgBoost & LightGBM
 
 
-##A About Training Dataset
+##  About Training Dataset
 The training set data includes:
 
 - rain.zip: A compressed file of txt files with numbers as numbers.
