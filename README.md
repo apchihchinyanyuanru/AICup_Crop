@@ -1,12 +1,11 @@
 # Team-14 - Agriculture Articles Label Classification
 
 ## Team Members
-109078501 Riley Kao 高靖雅
-109078510 YuanRu Deng 鄧媛如 
-109078511 Linda Yeh 葉芝均
-109078513 YanYu Fu 傅嬿羽
-109062423 Apoorv Saxena
-
+- 109078501 Riley Kao 高靖雅 
+- 109078510 YuanRu Deng 鄧媛如 
+- 109078511 Linda Yeh 葉芝均 
+- 109078513 YanYu Fu 傅嬿羽 
+- 109062423 Apoorv Saxena 
 
 [![Dataset and all information si Published in Mandarin.](AICup hosted by AIdea)](https://aidea-web.tw/topic/de144f63-cd15-40b8-81e6-82db5636d598)
 ## A Brief Description
@@ -125,5 +124,3 @@ The final result obtained by combining the methodology for LightGBM and XGboost 
 | Score | precision | recall|
 | :---: | :---: | :---: |
 | 0.7770935 | 0.74061 | 0.81735 |
-
-
